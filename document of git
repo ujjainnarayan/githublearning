@@ -7,3 +7,21 @@ Learning git part -1:
 To make a gate project
 
 git init
+
+
+
+add file 
+git add -A   for all file save
+
+git add [filename] -A
+
+git status
+
+git commit -m "msg"
+
+git remote add origin master
+
+git clone repoName
+
+git pull origin master
+
